@@ -1,0 +1,14 @@
+img {
+    height: auto;
+    width: 600px;
+}
+body {
+    text-align: center;
+}
+.lists {
+    display: inline-block;
+    text-align: left;
+}
+h3 {
+    background-color: greenyellow;
+}
